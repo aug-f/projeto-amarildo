@@ -101,7 +101,7 @@ function respostaSelecionada(opcaoSelecionada) {
         mostraPergunta();    
 }
 function mostraResultado() {
-    caixaPerguntas.textContent = "apertar o botão";
+    caixaPerguntas.textContent = "e isto basta";
     textoResultado.textContent = hitoriaFinal;
     caixaAlternativas.textContent = "";
 }
