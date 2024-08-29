@@ -61,11 +61,11 @@ const perguntas = [
         enunciado: "Você. Ser de carne e sangue. De mente e de alma. Está restrito a esta sala. Você em sua vida se importava com todas as consequências das suas ações? Quantas vezes você machucou os outros sem nem pensar no quanto havia machucado? Não sinto nada por você humano, mas, se tivesse que descrever a sua situação, a tí resta somente a punição. ",
         alternativas: [
             {
-                texto: "Eu sofro.",
+                texto: "...",
                 afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
             },
             {
-                texto: "Eu sofro.",
+                texto: "...",
                 afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
             }            
         ]
@@ -73,7 +73,7 @@ const perguntas = [
 ];
 let atual = 0; //variável que varia (marcador)
 let perguntaAtual;//variável que vai receber o texto
-let historiaFinal = "";
+let historiaFinal = "Preso a esta sala, você continua a apertar o botão. De novo, e de novo, e de novo.";
 
 function mostraPergunta() {
     if(atual >= perguntas.length) {
