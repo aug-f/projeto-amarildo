@@ -101,7 +101,7 @@ function respostaSelecionada(opcaoSelecionada) {
         mostraPergunta();    
 }
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "apertar o botão";
     textoResultado.textContent = hitoriaFinal;
     caixaAlternativas.textContent = "";
 }
