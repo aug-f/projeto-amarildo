@@ -45,14 +45,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Da mesma forma como você vive sem saber porque vive. E anda sem saber porque anda. E morre sem saber porque morre. Você irá apertar o botão sem saber porque aperta. Quantas vezes você teve escolha sobre o que fazer na sua vida? Você nunca teve controle sobre nada. Aqui também não terá. Você, independente de querer ou não, você aperta o botão.",
+        enunciado: "Da mesma forma como você vive sem saber porque vive. E anda sem saber porque anda. E morre sem saber porque morre. Você irá apertar o botão sem saber porque aperta. Quantas vezes você teve escolha sobre o que fazer na sua vida? Você nunca teve controle sobre nada. Aqui também não terá. Você, independente de querer ou não, aperta o botão.",
         alternativas: [
             {
-                texto: "Nada aconteceu. Foi bem anticlimático na verdade.",
+                texto: "Apertar o botão.",
                 afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
             },
             {
-                texto: "...",
+                texto: "Apertar o botão",
                 afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }            
         ]
