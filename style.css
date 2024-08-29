@@ -2,8 +2,8 @@
     --cor-fundo: #01080e;
     --cor-principal: #212333;
     --cor-secundaria: #212333;
-    --cor-destaque: #2bdefd;
-    --cor-texto: #d7f9ff;
+    --cor-destaque: #ffffff;
+    --cor-texto: #ffd7d7;
 }
 body {
     background-color: var(--cor-fundo);
